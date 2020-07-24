@@ -1,0 +1,4 @@
+1.run npm install
+2.run nodemon app.js or node app.js
+3.open localhost:3000 in your browser
+3.Enjoy
